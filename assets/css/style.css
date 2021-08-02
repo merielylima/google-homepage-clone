@@ -18,6 +18,7 @@ body{
 .menu{
   height: 48px;
   display: flex;
+  margin-top:8px;
   width: 100%;
   justify-content: space-between;
 }
@@ -50,9 +51,9 @@ body{
   margin-bottom: 2px;
 }
 .menu__section.right{
-  margin-right: 4px;
+  margin-right: 16px;
 }
-.menu__section.rigth .menu__icon{
+.menu__section.right .menu__icon{
   padding:8px;
   margin-right: 0.5rem;
   cursor: pointer;
@@ -60,7 +61,7 @@ body{
   width:38px;
   height:38px;
 }
-.menu__section.rigth .menu__icon:hover{
+.menu__section.right .menu__icon:hover{
   background-color: rgba(60,64,67,0.08);
 }
 .menu__section.left-to-right{
@@ -83,7 +84,6 @@ body{
 .item--2:hover{
   text-decoration: underline;
 }
-
 .menu__avatar{
   width: 32px;
   height: 32px;
@@ -94,11 +94,7 @@ body{
   -webkit-box-shadow: 0px 0px 0px 4px rgba(60,64,67,0.08);
   -moz-box-shadow: 0px 0px 0px 4px rgba(60,64,67,0.08);
 }
-.menu__avatar--frame{
-  position: absolute;
-  top: 0; 
-  left: 0;
-}
+
 /* Main */
 .content{
   display:flex;
@@ -223,7 +219,7 @@ body{
 }
 @media (min-width: 768px){
   .content{
-    padding-top: 120px;
+    padding-top: 150px;
   }
   .content__logo{
     height:110px;
