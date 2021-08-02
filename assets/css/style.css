@@ -88,6 +88,7 @@ body{
   width: 32px;
   height: 32px;
   border-radius:50%;
+  margin-right: 8px;
 }
 .menu__avatar:hover{
   box-shadow: 0px 0px 0px 4px rgba(60,64,67,0.08);
