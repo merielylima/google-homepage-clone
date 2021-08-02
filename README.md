@@ -6,7 +6,7 @@ UI Clone - Google (Homepage)
  </a>
 </p>
 
-<hr>
+
 
 ## Resources
 - [x] HTML, CSS
