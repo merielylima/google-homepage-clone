@@ -1,8 +1,9 @@
 <h1 align="center">
-UI Clone - Google (Homepage)
+UI Clone - Google (Responsive Homepage)
 </h1>
-<p align="center"><a href="https://google.com">Google Homepage</a> made with HTML and CSS for study purposes.</p>
-<p align="center"> <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp"> Click here</a> to see the result.</p>
+<p align="center"> Responsive <a href="https://google.com">Google Homepage</a> made with HTML and CSS for study purposes.</p>
+<p align="center"> <a href="https://merielylima.github.io/google-homepage-clone/" target="_blank"> Click here</a> to see the result.</p>
+<p align="center"> Or access https://merielylima.github.io/google-homepage-clone/.</p>
  </a>
 </p>
 
