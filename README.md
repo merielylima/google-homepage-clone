@@ -2,7 +2,7 @@
 UI Clone - Google (Homepage)
 </h1>
 <p align="center"><a href="https://google.com">Google Homepage</a> made with HTML and CSS for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to see the result.</p>
+<p align="center"> <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp"> Click here</a> to see the result.</p>
  </a>
 </p>
 
