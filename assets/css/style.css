@@ -113,7 +113,7 @@ body{
   background-size: 19px;
     background-repeat: no-repeat;
     background-position: 16px;
-  margin-top: 8px;
+  margin-top: 32px;
   width: 100%;
   height: 44px;
   max-width: 582px;
@@ -223,7 +223,7 @@ body{
     padding-top: 150px;
   }
   .content__logo{
-    height:110px;
+    height:92px;
   }
   .menu__section.left{
     visibility: hidden;
